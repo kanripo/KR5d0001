@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:59:03.981619
+# -*- mode: mandoku-view -*-
 #+TITLE: 玄精碧匣靈寶聚玄經
-#+PROPERTY: DZID  DZ0984
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—899 三卷 太玄部
+#+DATE: 2015-08-29 00:59:05
+#+PROPERTY:  LASTPB <PB KR5d0001_SJB_003-190913b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶
+
